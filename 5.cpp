@@ -1,3 +1,4 @@
+//Calculator with function pointer and templets 
 #include <iostream>
 #include <map>
 
